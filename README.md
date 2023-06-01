@@ -1,8 +1,7 @@
 ### Hi there 👋, I am Chang. Welcome to my Github 🎉
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ferreroxc&count_private=true&theme=vue&show_icons=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferreroxc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **ferreroxc/ferreroxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
