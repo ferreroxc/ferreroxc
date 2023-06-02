@@ -1,5 +1,9 @@
 ### Hi there 👋, I am Chang. Welcome to my Github 🎉
 
+#### My proud record
+2023.05.31 Added release tag for the first time
+2023.06.01 Submitted my first feature request to a public repo
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2020%20mins-blue)
 
