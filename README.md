@@ -2,6 +2,7 @@
 
 #### My proud record
 2023.05.31 Added release tag for the first time
+
 2023.06.01 Submitted my first feature request to a public repo
 
 <!--START_SECTION:waka-->
