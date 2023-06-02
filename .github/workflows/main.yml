@@ -19,4 +19,4 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_OS: "False"
           SHOW_EDITORS: "False"
-          IGNORED_REPOS: "ferreroxc"
+          IGNORED_REPOS: "ferreroxc,ai-project-2018"
