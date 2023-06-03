@@ -7,9 +7,9 @@
 - 2018.07.20 Opened my first pull request
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20thousand%20lines%20of%20code-blue)
 
@@ -52,14 +52,15 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Markdown                 26 mins             ██████████████████░░░░░░░   73.29 % 
-INI                      5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+JavaScript               1 hr 28 mins        ██████████████████░░░░░░░   70.04 % 
+Markdown                 26 mins             █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+INI                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🐱‍💻 Projects: 
-DataScienceGuidelines    36 mins             █████████████████████████   100.00 % 
+NotionNext               1 hr 29 mins        ██████████████████░░░░░░░   70.94 % 
+DataScienceGuidelines    36 mins             ███████░░░░░░░░░░░░░░░░░░   29.06 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -79,7 +80,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ferreroxc/ferreroxc/main/assets/bar_graph.png)
 
 
- Last Updated on 2023.06.02 18:37:54 UTC
+ Last Updated on 2023.06.03 18:37:40 UTC
 <!--END_SECTION:waka-->
 
 <!--
