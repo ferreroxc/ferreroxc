@@ -17,7 +17,7 @@
 
 > 📦 33.1 kB Used in GitHub's Storage 
  > 
-> 🏆 47 Contributions in the Year 2023
+> 🏆 46 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,12 +52,10 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               1 hr 49 mins        █████████████████████████   98.97 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+JavaScript               21 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-NotionNext               1 hr 50 mins        █████████████████████████   100.00 % 
+NotionNext               21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -77,7 +75,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ferreroxc/ferreroxc/main/assets/bar_graph.png)
 
 
- Last Updated on 2023.06.09 18:37:34 UTC
+ Last Updated on 2023.06.10 18:37:57 UTC
 <!--END_SECTION:waka-->
 
 <!--
