@@ -52,12 +52,10 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               14 mins             █████████████████████░░░░   85.26 % 
-Markdown                 2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-satellite-imagery-labelin16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -77,7 +75,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ferreroxc/ferreroxc/main/assets/bar_graph.png)
 
 
- Last Updated on 2023.06.29 18:41:34 UTC
+ Last Updated on 2023.06.30 18:40:43 UTC
 <!--END_SECTION:waka-->
 
 <!--
